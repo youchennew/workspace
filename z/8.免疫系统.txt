@@ -1,150 +1,150 @@
-1.���������ܰ������ص����:
-ֱ�Ӳ����������߹���False
-�䷢���������ܰ�������False
-������ʼ�ܰ�ϸ���ĳ���True
-�����ܰ�ϸ������ֳ�迹ԭ�̼�False
-���˳��������²ŷ�������False
+1.符合中枢淋巴器官特点的是:
+直接参与机体的免疫功能False
+其发生比外周淋巴器官晚False
+产生初始淋巴细胞的场所True
+其中淋巴细胞的增殖需抗原刺激False
+在人出生后数月才发育完善False
 
 
-2.��һλ�����������ٵĻ��ߣ�ȡ���ܰͽ᾵�¹۲죬�۲첻���Ľṹ��
-ǳ��Ƥ��False
-��Ƥ����True
-����False
-�ܰ��False
-С��False
+2.有一位先天性无胸腺的患者，取其淋巴结镜下观察，观察不到的结构是
+浅层皮质False
+副皮质区True
+髓索False
+淋巴窦False
+小梁False
 
 
-3.���ܰͽ���ܰ���ڣ���������״��Ƥϸ���ϵĿ��Գʵݿ�ԭ��ϸ����
-�ܰ��ڵ���Ƥϸ��False
-��״ϸ��False
-Bϸ��False
-��ϸ��False
-����ϸ��True
+3.在淋巴结的淋巴窦内，附着在星状内皮细胞上的可以呈递抗原的细胞是
+淋巴窦壁的内皮细胞False
+网状细胞False
+B细胞False
+浆细胞False
+巨噬细胞True
 
 
-4.Ƣ��������������
-�ܰ�С��False
-Ƣ��False
-����False
-������Χ�ܰ���True
-��Ե��False
+4.脾的胸腺依赖区是
+淋巴小结False
+脾索False
+白髓False
+动脉周围淋巴鞘True
+边缘区False
 
 
-5.����������Ƥϸ���ص����
-��������֧��True
-����������True
-���빹��Ѫ����������True
-���빹������С��True
-û��ͻ��False
+5.属于胸腺上皮细胞特点的有
+构成胸腺支架True
+分泌胸腺素True
+参与构成血－胸腺屏障True
+参与构成胸腺小体True
+没有突起False
 
 
-6.�γɳ�ʼTϸ���ĳ����ǣ�
-����True
-�ܰͽ�False
-ƢFalse
-����False
-������False
+6.形成初始T细胞的场所是：
+胸腺True
+淋巴结False
+脾False
+骨髓False
+扁桃体False
 
 
-7.Ѫ-�������ϵ�Ѫ����϶����
-��ϸ��False
-Tϸ��False
-����ϸ��True
-Bϸ��False
-������Ƥϸ��False
+7.血-胸腺屏障的血管周隙内有
+周细胞False
+T细胞False
+巨噬细胞True
+B细胞False
+胸腺上皮细胞False
 
 
-8.���й���ƢѪ��������ȷ����
-ƢѪ������˹����ܰ�ҺFalse
-ƢѪ���ƤΪ����״����Ƥ���м�϶True
-ƢѪ����д�������ϸ��False
-��ë΢������Ѫȫ��ͨ��ƢѪ�False
-����������ϸ���޷�ͨ��ƢѪ�False
+8.下列关于脾血窦的描述正确的是
+脾血窦内有滤过的淋巴液False
+脾血窦内皮为长杆状，内皮间有间隙True
+脾血窦内有大量巨噬细胞False
+笔毛微动脉的血全部通入脾血窦False
+正常健康红细胞无法通过脾血窦False
 
 
-9.������Һ����ʱ���ܰͽ����Ҫ�仯��
-�ܰͽ��״�True
-�ܰ�С�����ࡢ����True
-��Ƥ��������False
-�����ڵĽ�ϸ������True
-С����ϸFalse
+9.发生体液免疫时，淋巴结的主要变化是
+淋巴结肿大True
+淋巴小结增多、增大True
+副皮质区扩大False
+髓索内的浆细胞增多True
+小梁变细False
 
 
-10.�ܰͽ��Ƣ�ڷ���ϸ������Ӧ��ʱ���ṹ�����������
-�ܰͽ�ĸ�Ƥ������Ƣ�Ķ�����Χ�ܰ���True
-�ܰͽ�ǳ��Ƥ�ʺ�Ƣ������Χ�ܰ���False
-�ܰͽ�ǳ��Ƥ�ʺ�Ƣ���ܰ�С��False
-�ܰͽḱƤ������Ƣ���ܰ�С��False
-����Ƣ�False
+10.淋巴结和脾内发生细胞免疫应答时，结构明显增大的是
+淋巴结的副皮质区和脾的动脉周围淋巴鞘True
+淋巴结浅层皮质和脾动脉周围淋巴鞘False
+淋巴结浅层皮质和脾的淋巴小结False
+淋巴结副皮质区和脾的淋巴小结False
+髓窦和脾窦False
 
 
-11.ѪҺ�е��ܰ�ϸ�������ܰͽ��ͨ����
-��Ĥ���ܰ��False
-С�����False
-ëϸѪ�ܺ�΢����True
-���False
-Ƣ�False
+11.血液中的淋巴细胞进入淋巴结的通道是
+被膜下淋巴窦False
+小梁周窦False
+毛细血管后微静脉True
+髓窦False
+脾窦False
 
 
-12.���ڵ�������ϸ��ϵͳ��ϸ����
-����ϸ��������ϸ����������ϸ��False
-����ϸ��������ϸ������״ϸ��False
-����ϸ��������ϸ���� T ϸ��False
-����ϸ�����ξ���ϸ�����ξ���ϸ��True
-��ϸ�����ξ���ϸ�����ξ���ϸ��False
+12.属于单核吞噬细胞系统的细胞是
+单核细胞、巨噬细胞、中性粒细胞False
+单核细胞、巨噬细胞、网状细胞False
+单核细胞、巨噬细胞、 T 细胞False
+单核细胞、肺巨噬细胞、肝巨噬细胞True
+浆细胞、肝巨噬细胞、肺巨噬细胞False
 
 
-13.���ٵ������Խṹ��
-�ܰ�С��False
-����С��True
-����False
-������Χ�ܰ���False
-�����ܰ͹�False
+13.胸腺的特征性结构是
+淋巴小结False
+胸腺小体True
+白髓False
+动脉周围淋巴鞘False
+输入淋巴管False
 
 
-14.�й�Ƣ��Ե�����������������
-λ�ڰ�������轻����False
-�����о���ϸ��True
-���б�Ե񼣬����ѪҺ���ܰ�ϸ������Ƣ�ڵ���Ҫͨ��False
-��Ƣ��ʶ��׽��ԭ����������Ӧ�����Ҫ��λFalse
-���붯���Ĳ�֧ĩ������γɱ�Ե�False
+14.有关脾边缘区的描述，错误的是
+位于白髓与红髓交界区False
+不含有巨噬细胞True
+含有边缘窦，它是血液内淋巴细胞进入脾内的重要通道False
+是脾内识别捕捉抗原、引发免疫应答的重要部位False
+中央动脉的侧支末端膨大形成边缘窦False
 
 
-15.�����࣬�����ܰ����ٰ���
-����True
-�ܰͽ�False
-ƢFalse
-����True
-������False
+15.在人类，中枢淋巴器官包括
+胸腺True
+淋巴结False
+脾False
+骨髓True
+扁桃体False
 
 
 
 
-17.���ߣ��򡰺�ս�����ȡ�������壺�����ܰͽ��״����Ϊ�Ϻ�������Ⱦ�����ʸû����ܰͽ��״�������
-Ƥ���ܰ������False
-�ܰ�С���������࣬�����СFalse
-��ϸ����Tϸ����������False
-ǳ��Ƥ�ʼ���Ƥ��������������True
+17.患者，因“寒战、发热”就诊，查体：颈部淋巴结肿大。诊断为上呼吸道感染。请问该患者淋巴结肿大是由于
+皮质淋巴窦扩大False
+淋巴小结数量增多，体积变小False
+浆细胞及T细胞数量减少False
+浅层皮质及副皮质区均明显增大True
 
 
-18.�������Ի��ߣ���������������������ֲ������������ָ��ȡ�η�������������͡��������١�����Ѫ�����������Ϊ�����ųⷴӦ�����ʳ����ųⷴӦ�ĸ���ԭ����
-�����빩���MHC���Ӳ�ͬ������ϵͳ�ɴ�ʶ���ų��������True
-��ϸ�����ڿ��壬���������Կ�ԭ���False
-Tϸ�������������Կ�ԭ���壬��ʶ�����忹ԭFalse
-����ϸ�����ɡ�����������False
+18.老年男性患者，因患糖尿病肾病，进行肾移植手术，术后出现高热、畏寒、乏力、腹胀、尿量减少、肉眼血尿多的现象。诊断为加速排斥反应。请问出现排斥反应的根本原因是
+患者与供体的MHC分子不同，免疫系统由此识别排斥异体分子True
+浆细胞分泌抗体，与其特异性抗原结合False
+T细胞表面有特异性抗原受体，可识别异体抗原False
+巨噬细胞吞噬、清除异体分子False
 
 
-19.���ߣ�7��ǰ�򳵻����¸������ˣ�ʧѪ������4000ml�������ΪƢ���ѡ�����Ƣ�г������ƣ�Ŀǰ�޸�Ⱦ�����޷��ȡ����ʽ��С��������ܿ��ܳ��ֵı仯Ϊ
-����Ѫ�а�ϸ����ѪС���������Լ���False
-����ֿ���������ǿFalse
-Ѫ���ϸ���������࣬��ϸ����������False
-����Ѫ������˥�Ϻ�ϸ����������True
+19.患者，7天前因车祸导致腹部外伤，失血总量达4000ml，经诊断为脾破裂。给予脾切除术治疗，目前无感染迹象，无发热。请问今后小明身体机能可能出现的变化为
+外周血中白细胞及血小板数量明显减少False
+身体抵抗力明显增强False
+血检红细胞数量增多，白细胞数量减少False
+外周血中异形衰老红细胞明显增多True
 
 
-20.������С��������г����ᵼ�»��������������½���ԭ����
-��NKϸ������False
-����������ȱ��Tϸ�����޷�����ϸ������Ӧ��True
-����������ȱ��Tϸ��������ϸ������Ӧ�������½�������Һ���߹�����Ӱ�졣False
-�������С����ʳ�٣�������������ʱ����False
+20.将新生小鼠的胸腺切除，会导致机体免疫力明显下降的原因是
+因NK细胞减少False
+新生鼠体内缺乏T细胞，无法进行细胞免疫应答。True
+新生鼠体内缺乏T细胞，所以细胞免疫应答能力下降，对体液免疫功能无影响。False
+新生鼠过小，进食少，所以免疫力暂时低下False
 
 

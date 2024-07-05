@@ -1,216 +1,216 @@
-1.����ëϸѪ����Ҫ�ֲ���
-��True
-Ƣ��False
-����False
-θ��False
-����False
+1.连续毛细血管主要分布于
+肺True
+脾脏False
+肝脏False
+胃肠False
+骨髓False
 
 
-2.�п�ëϸѪ�ֲܷ���
-�����֯False
-����False
-����֯False
-��Ѫ����True
-����False
+2.有孔毛细血管分布于
+结缔组织False
+骨髓False
+肌组织False
+肾血管球True
+肝脏False
 
 
-3.���ڷ��䵽������Ѫ������Ѫ����
-����False
-�ж���True
-С����False
-�о���False
-΢����False
+3.调节分配到各器官血流量的血管是
+大动脉False
+中动脉True
+小动脉False
+中静脉False
+微动脉False
 
 
-4.�ڡ��ⵯ��Ĥ�����Ե�Ѫ����
-����False
-�о���False
-�ж���True
-С����False
-΢����False
+4.内、外弹性膜均明显的血管是
+大动脉False
+中静脉False
+中动脉True
+小动脉False
+微动脉False
 
 
-5.�п�ëϸѪ����ָ��"��"λ��
-��Ƥϸ������֮��False
-��Ƥϸ�����ʲ����˵Ĳ���True
-��ĤFalse
-��Ƥϸ����False
-ëϸѪ��֮��False
+5.有孔毛细血管所指的"孔"位于
+内皮细胞连接之间False
+内皮细胞胞质不含核的部分True
+基膜False
+内皮细胞核False
+毛细血管之间False
 
 
-6.ëϸѪ�ܵ�һ�㹹����
-��Ĥ����Ĥ����ĤFalse
-��Ƥ����Ĥ��1��2��ƽ����False
-��Ƥ����Ĥ�͵���ĤFalse
-��Ƥ����Ĥ��������ϸ��True
-ֻ����ƤFalse
+6.毛细血管的一般构成是
+内膜、中膜和外膜False
+内皮、基膜和1或2层平滑肌False
+内皮、基膜和弹性膜False
+内皮、基膜和少量周细胞True
+只有内皮False
 
 
-7.�����п�ëϸѪ���ص����
-��Ƥϸ��Ϊ������False
-��Ƥϸ������������С��True
-��Ĥ��������False
-�����ں���ĤС�ݶ�False
-��Ƥϸ����������False
+7.属于有孔毛细血管特点的是
+内皮细胞为连续的False
+内皮细胞薄，有许多小孔True
+基膜薄不连续False
+胞质内含质膜小泡多False
+内皮细胞间无连接False
 
 
-8.����������𲫵���
-񼷿��True
-����ϸ��False
-������False
-�ֿ�Ұ��άFalse
-��ϸ��False
+8.心脏的正常起搏点是
+窦房结True
+移行细胞False
+房室束False
+浦肯野纤维False
+束细胞False
 
 
-9.���������ܱڽṹ�仯�����ԵĲ�λ��
-��ĤFalse
-��ĤTrue
-��ĤFalse
-��ƤFalse
-�ڵ���ĤFalse
+9.各级动脉管壁结构变化最明显的部位是
+内膜False
+中膜True
+外膜False
+内皮False
+内弹性膜False
 
 
-10.���ھ�����������ȷ����
-����ж����ȣ��ܱڱ�True
-��Ĥһ�����Ĥ��False
-ƽ������ά�ḻFalse
-���о�����False
-��Ĥֻ����Ƥ����False
+10.关于静脉的描述正确的是
+与伴行动脉比，管壁薄True
+中膜一般比外膜厚False
+平滑肌纤维丰富False
+均有静脉瓣False
+内膜只由内皮构成False
 
 
-11.������ĳ��Ů��72�꣬��Ѫѹ��Ѫ֬���꣬�����ձ��ͺ�ͻ����ǰ�ز���ʹ����ѹե�У���������ҽԺ���ĵ�ͼ��ʾ����ǰ�ڴ�����������������Ҵ������ͣ��������²��������ഫ��ϵͳ����
-񼷿��False
-��ϸ��False
-����ϸ��False
-�ֿ�Ұ��άFalse
-�ļ���άTrue
+11.患者李某，女，72岁，高血压高血脂多年，过生日饱餐后突发左前胸部疼痛，有压榨感，紧急送往医院，心电图显示左室前壁大面积梗死，并发心室传导阻滞，请问以下不属于心脏传导系统的是
+窦房结False
+起搏细胞False
+移行细胞False
+浦肯野纤维False
+心肌纤维True
 
 
-12.��ëϸѪ�ֲܷ�����֯��
-������False
-������֯True
-�ļ�False
-ƽ����False
-����False
+12.无毛细血管分布的组织是
+骨骼肌False
+软骨组织True
+心肌False
+平滑肌False
+肝脏False
 
 
-13.��������ëϸѪ�ܵ�����������ȷ
-��Ƥϸ������������С�ݣ���Ƥϸ�����н������ӣ���Ĥ����False
-��Ƥϸ������������С�ݣ���Ƥϸ�����н������ӣ���Ĥ����True
-��Ƥϸ������������С�ݣ���Ƥϸ�����м�϶����Ĥ������False
-��Ƥϸ������������С�ݣ���Ƥϸ�����н������ӣ���Ĥ������False
-��Ƥϸ������������С�ݣ���Ƥϸ�����м�϶����Ĥ������False
+13.关于连续毛细血管的描述哪项正确
+内皮细胞含少量吞饮小泡，内皮细胞间有紧密连接，基膜完整False
+内皮细胞含许多吞饮小泡，内皮细胞间有紧密连接，基膜完整True
+内皮细胞含许多吞饮小泡，内皮细胞间有间隙，基膜不完整False
+内皮细胞含少量吞饮小泡，内皮细胞间有紧密连接，基膜不完整False
+内皮细胞含少量吞饮小泡，内皮细胞间有间隙，基膜不完整False
 
 
-14.����ʪ�����ಡʱ�����ۼ���������εĲ�λ��
-����ĤFalse
-�İ�ĤTrue
-�ļ�ĤFalse
-����ĤFalse
+14.患风湿性心脏病时，常累及并引起变形的部位是
+心内膜False
+心瓣膜True
+心肌膜False
+心外膜False
 
 
-15.���ڴ����Ľṹ���������ȷ
-��Ĥ����ⵯ��Ĥ����True
-��Ƥ�²㺬ƽ������άFalse
-��Ĥ�ɴ�������Ĥ�Ͳ���ƽ������ά���False
-��Ĥ����Ĥ�ֽ粻����False
-��Ĥ����Ĥ��False
+15.关于大动脉的结构特征哪项不正确
+外膜最厚，外弹性膜明显True
+内皮下层含平滑肌纤维False
+中膜由大量弹性膜和部分平滑肌纤维组成False
+内膜与中膜分界不明显False
+中膜比外膜厚False
 
 
-16.��ëϸѪ��ͨ͸���޹صĽṹ��
-ƽ�����Ķ���True
-ϸ����϶False
-��Ƥϸ����False
-��Ĥ�ĺ�False
-��Ĥ������False
+16.与毛细血管通透性无关的结构是
+平滑肌的多少True
+细胞间隙False
+内皮细胞孔False
+基膜的厚薄False
+基膜的有无False
 
 
-17.���ڴ���������������ȷ����
-����Ĥ�ֽ粻����False
-��Ĥ�����ƽ������ά��False
-��Ĥ���н϶�����ƽ������False
-�ڡ��ⵯ��Ĥ����True
-��Ĥ��Ӫ��Ѫ��False
+17.关于大静脉的叙述，不正确的是
+三层膜分界不明显False
+中膜不发达，平滑肌纤维少False
+外膜厚，有较多纵行平滑肌束False
+内、外弹性膜明显True
+外膜含营养血管False
 
 
-18.����վ�����ص������׳�����֫�������ţ�����֫�Ĵ�ľ����ľ����깦�ܲ�ȫ��ֱ����ϵ�����¹��ھ������˵����ȷ����
-����������Ĥ͹���ǻ����False
-��������ڵľ���ֱ��һ����2mm����True
-����������Ĥ͹���ǻ����False
-��������ڵľ���ֱ��������2cm����False
-�������������Ƥ���м京��ԭ��ά�Ľ����֯False
+18.长期站立或负重的人容易出现下肢静脉曲张，与下肢的大的静脉的静脉瓣功能不全有直接联系，以下关于静脉瓣的说法正确的是
+静脉瓣是外膜凸向管腔所致False
+静脉瓣存在的静脉直径一般在2mm以上True
+静脉瓣是中膜凸向管腔所致False
+静脉瓣存在的静脉直径必须在2cm以上False
+静脉瓣表层是内皮，中间含胶原纤维的结缔组织False
 
 
-19.������һ���ۼ��������йش����Ľṹ��������ȷ����
-��������Ĥ����Ĥ֮�������ԵĽ���False
-��������Ƥ��W-PС��϶�True
-��Ĥ��40-70�㻷�ε�ƽ������άFalse
-��Ĥ����Ĥ��False
-��Ĥ�ĵ���Ĥ����״��ά���������״�ṹFalse
+19.动脉瘤一般累及大动脉，有关大动脉的结构的描述正确的是
+大动脉的内膜和中膜之间有明显的界限False
+大动脉的内皮含W-P小体较多True
+中膜含40-70层环形的平滑肌纤维False
+外膜比中膜厚False
+中膜的弹性膜由网状纤维相连组成网状结构False
 
 
-20.ĳ���Ի��м�����Ѫ�ܲ���CT��鷢�ִ����ж������ѳ�Ѫ�����й����ж�������������
-�ڵ���Ĥ����False
-�ⵯ��Ĥ����False
-��Ĥ��10-40�㵯��ĤTrue
-��Ĥ����Ĥ��Ƚӽ�False
-��Ĥ����Ӫ��Ѫ��False
+20.某男性患有急性脑血管病，CT检查发现大脑中动脉破裂出血，下列关于中动脉的描述错的
+内弹性膜明显False
+外弹性膜明显False
+中膜含10-40层弹性膜True
+中膜与外膜厚度接近False
+外膜含有营养血管False
 
 
-21.Ѫ�����ϵĹ�����Ҫ��ɲ���������ëϸѪ�ܣ������й�ëϸѪ�ܵ���������ȷ����
-����ëϸѪ�ܵ���Ƥ�����ں���ĤС�ݡ�True
-�п�ëϸѪ�ܵ���Ƥ�����˵Ĳ��ֺܱ�����������Ƥ���ס�True
-Ѫ����Ƥϸ��֮���нϴ�ļ�϶��True
-����ëϸѪ�ܵĻ�Ĥ����True
-Ѫ�Ļ�Ĥ����������û��True
+21.血脑屏障的构成主要组成部分是连续毛细血管，下列有关毛细血管的描述，正确的是
+连续毛细血管的内皮胞质内含质膜小泡。True
+有孔毛细血管的内皮不含核的部分很薄，有许多内皮窗孔。True
+血窦的内皮细胞之间有较大的间隙。True
+连续毛细血管的基膜完整True
+血窦的基膜不连续甚至没有True
 
 
-22.��������Ӳ�������ۼ����ж������йش������ж�������������ȷ����
-�����ڵ�����ṹ���ж�����ȣ�������False
-��������Ĥ����Ӫ��Ѫ��False
-�ж�������Ĥ���ⵯ��ĤTrue
-��������Ĥ��ƽ����������Ĥ���������������֯ʹ��Ĥ�����Ƕ�������Ӳ���������̵���Ҫ���ڡ�True
-�ж�������Ĥ������ƽ������ά������ֳƼ��Զ���True
+22.动脉粥样硬化，常累及大中动脉，有关大动脉和中动脉的描述，正确的是
+大动脉壁的三层结构与中动脉相比，更明显False
+大动脉的外膜不含营养血管False
+中动脉的外膜有外弹性膜True
+大动脉的中膜的平滑肌移入内膜增生并产生结缔组织使内膜增厚，是动脉粥样硬化发生过程的重要环节。True
+中动脉的中膜含大量平滑肌纤维，因此又称肌性动脉True
 
 
-23.����С��ֲ���
-��Ƥ��ͷ��True
-��Ƥ��֯��False
-��Ƥ���ز�False
-��Ƥ������False
+23.触觉小体分布在
+真皮乳头层True
+真皮网织层False
+表皮基地层False
+表皮颗粒层False
 
 
-24.Ƥ�����ڵ���Ľṹ������
-���ײ㣬���㣬�����㣬͸���㣬���ʲ�True
-���ײ㣬�����㣬���㣬 ͸���㣬���ʲ�False
-���ײ㣬�����㣬͸���㣬���㣬���ʲ�False
-���ײ㣬�����㣬͸���㣬���ʲ㣬����False
-���ײ㣬�����㣬���ʲ㣬͸���㣬����False
+24.皮肤从内到外的结构依次是
+基底层，棘层，颗粒层，透明层，角质层True
+基底层，颗粒层，棘层， 透明层，角质层False
+基底层，颗粒层，透明层，棘层，角质层False
+基底层，颗粒层，透明层，角质层，棘层False
+基底层，颗粒层，角质层，透明层，棘层False
 
 
-25.Ƥ����Ƥ�У�ϸ��������ֳ������( )
-����False
-͸����False
-���ײ�True
-������False
+25.皮肤表皮中，细胞具有增殖能力是( )
+棘层False
+透明层False
+基底层True
+颗粒层False
 
 
-26.�����ʸ�˹ϸ��������ȷ����
-��ֱ��ɱ�˿�ԭFalse
-�����ں����ؿ���False
-���ڿ�ԭ���ϸ��True
-�ֲ��ڿ�����False
+26.关于朗格汉斯细胞描述正确的是
+能直接杀伤抗原False
+胞质内含黑素颗粒False
+属于抗原提呈细胞True
+分布于颗粒层False
 
 
-27.���ں���ϸ������������ȷ����
-�����˺ͺ����˺���ϸ�����������False
-û��ͻ��False
-���԰Ѻ��ؿ���ת�Ƹ������γ�ϸ��True
-���д������ؿ���False
+27.关于黑素细胞的描述，正确的是
+白种人和黑种人黑素细胞数量差异大False
+没有突起False
+可以把黑素颗粒转移给角质形成细胞True
+含有大量黑素颗粒False
 
 
-28.����ë����������������ȷ��
-ë��ͷ����Ѫ�ܺ���False
-ë�ҵ��¶˳�Ϊë��False
-ë�����¶˳�Ϊë��False
-ë��ͷ��ë���������յ�����True
+28.关于毛发的叙述，哪项正确：
+毛乳头处无血管和神经False
+毛囊的下端称为毛球False
+毛根的下端称为毛球False
+毛乳头对毛发生长起诱导作用True
